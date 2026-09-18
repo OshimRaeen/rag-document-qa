@@ -1,7 +1,7 @@
 def chunk_text(
     text: str,
-    chunk_size: int = 800,
-    overlap: int = 120,
+    chunk_size: int = 400,
+    overlap: int = 60,
 ) -> list[str]:
 
     if chunk_size <= 0:
@@ -48,8 +48,8 @@ def chunk_text(
 
 def chunk_document_units(
     document_units: list[dict],
-    chunk_size: int = 800,
-    overlap: int = 120,
+    chunk_size: int = 400,
+    overlap: int = 60,
 ) -> list[dict]:
 
     chunks = []
