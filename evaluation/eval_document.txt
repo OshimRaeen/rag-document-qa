@@ -1,0 +1,19 @@
+NovaCart is an e-commerce analytics platform designed for small and medium-sized online retailers. The company was founded in 2020 by Arjun Mehta and Priya Nair. Its headquarters are located in Pune, India.
+
+NovaCart's main product is called RetailPulse. RetailPulse connects with online stores and analyzes orders, customer behavior, product performance, and inventory levels. The platform supports integrations with Shopify, WooCommerce, and Magento.
+
+RetailPulse provides a real-time sales dashboard where retailers can monitor revenue, order volume, average order value, and product performance. Dashboard data is refreshed every five minutes.
+
+The inventory monitoring system tracks stock levels across connected stores. When the quantity of a product falls below a configured threshold, RetailPulse sends an inventory alert to the retailer. Alerts can be delivered through email or Slack.
+
+RetailPulse also includes automated reporting. Retailers can schedule daily, weekly, or monthly reports. Reports contain sales summaries, inventory information, and product performance data. Generated reports can be exported in PDF and CSV formats.
+
+NovaCart offers three subscription plans. The Starter plan costs $19 per month and supports one online store. The Growth plan costs $49 per month and supports up to five stores. The Business plan costs $99 per month and supports up to twenty stores.
+
+Customer data is encrypted while being transmitted using TLS. Stored customer information is encrypted at rest using AES-256 encryption. NovaCart performs automated database backups every twenty-four hours.
+
+Customers can contact support through email and live chat. Live chat support is available Monday through Friday between 9 AM and 6 PM Indian Standard Time. Business plan customers also receive priority support.
+
+RetailPulse keeps sales analytics data for twenty-four months by default. Customers can request deletion of their account data by contacting the support team. Account deletion requests are normally processed within seven business days.
+
+The platform's API uses API keys for authentication. API requests are limited to 1,000 requests per hour for Starter customers, 5,000 requests per hour for Growth customers, and 20,000 requests per hour for Business customers.

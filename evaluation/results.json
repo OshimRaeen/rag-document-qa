@@ -1,0 +1,239 @@
+[
+  {
+    "chunk_size": 400,
+    "overlap": 60,
+    "chunks_created": 7,
+    "hit_at_1": 0.9,
+    "hit_at_3": 1.0,
+    "questions": [
+      {
+        "question": "When was NovaCart started?",
+        "expected_text": "founded in 2020",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.248
+      },
+      {
+        "question": "Where is the company based?",
+        "expected_text": "Pune, India",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "top_distance": 0.3692
+      },
+      {
+        "question": "Which ecommerce platforms can RetailPulse connect to?",
+        "expected_text": "Shopify, WooCommerce, and Magento",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.218
+      },
+      {
+        "question": "How frequently is dashboard information updated?",
+        "expected_text": "every five minutes",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3068
+      },
+      {
+        "question": "How can low stock notifications be delivered?",
+        "expected_text": "email or Slack",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.2413
+      },
+      {
+        "question": "Which formats are available when exporting reports?",
+        "expected_text": "PDF and CSV",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3311
+      },
+      {
+        "question": "How much does the Growth subscription cost?",
+        "expected_text": "$49 per month",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3479
+      },
+      {
+        "question": "How is stored customer information protected?",
+        "expected_text": "AES-256",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3217
+      },
+      {
+        "question": "When is live chat support available?",
+        "expected_text": "Monday through Friday between 9 AM and 6 PM",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3459
+      },
+      {
+        "question": "What is the API request limit for Business customers?",
+        "expected_text": "20,000 requests per hour",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.2222
+      }
+    ]
+  },
+  {
+    "chunk_size": 800,
+    "overlap": 120,
+    "chunks_created": 4,
+    "hit_at_1": 0.7,
+    "hit_at_3": 0.9,
+    "questions": [
+      {
+        "question": "When was NovaCart started?",
+        "expected_text": "founded in 2020",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.257
+      },
+      {
+        "question": "Where is the company based?",
+        "expected_text": "Pune, India",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3915
+      },
+      {
+        "question": "Which ecommerce platforms can RetailPulse connect to?",
+        "expected_text": "Shopify, WooCommerce, and Magento",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "top_distance": 0.263
+      },
+      {
+        "question": "How frequently is dashboard information updated?",
+        "expected_text": "every five minutes",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "top_distance": 0.3805
+      },
+      {
+        "question": "How can low stock notifications be delivered?",
+        "expected_text": "email or Slack",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.2767
+      },
+      {
+        "question": "Which formats are available when exporting reports?",
+        "expected_text": "PDF and CSV",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.416
+      },
+      {
+        "question": "How much does the Growth subscription cost?",
+        "expected_text": "$49 per month",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "top_distance": 0.3552
+      },
+      {
+        "question": "How is stored customer information protected?",
+        "expected_text": "AES-256",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3219
+      },
+      {
+        "question": "When is live chat support available?",
+        "expected_text": "Monday through Friday between 9 AM and 6 PM",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3541
+      },
+      {
+        "question": "What is the API request limit for Business customers?",
+        "expected_text": "20,000 requests per hour",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.2241
+      }
+    ]
+  },
+  {
+    "chunk_size": 1200,
+    "overlap": 180,
+    "chunks_created": 3,
+    "hit_at_1": 0.8,
+    "hit_at_3": 1.0,
+    "questions": [
+      {
+        "question": "When was NovaCart started?",
+        "expected_text": "founded in 2020",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.2559
+      },
+      {
+        "question": "Where is the company based?",
+        "expected_text": "Pune, India",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3902
+      },
+      {
+        "question": "Which ecommerce platforms can RetailPulse connect to?",
+        "expected_text": "Shopify, WooCommerce, and Magento",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.2914
+      },
+      {
+        "question": "How frequently is dashboard information updated?",
+        "expected_text": "every five minutes",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "top_distance": 0.3837
+      },
+      {
+        "question": "How can low stock notifications be delivered?",
+        "expected_text": "email or Slack",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3587
+      },
+      {
+        "question": "Which formats are available when exporting reports?",
+        "expected_text": "PDF and CSV",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3716
+      },
+      {
+        "question": "How much does the Growth subscription cost?",
+        "expected_text": "$49 per month",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "top_distance": 0.3544
+      },
+      {
+        "question": "How is stored customer information protected?",
+        "expected_text": "AES-256",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.3469
+      },
+      {
+        "question": "When is live chat support available?",
+        "expected_text": "Monday through Friday between 9 AM and 6 PM",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.4075
+      },
+      {
+        "question": "What is the API request limit for Business customers?",
+        "expected_text": "20,000 requests per hour",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "top_distance": 0.2357
+      }
+    ]
+  }
+]

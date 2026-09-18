@@ -1,0 +1,42 @@
+[
+  {
+    "question": "When was NovaCart started?",
+    "expected_text": "founded in 2020"
+  },
+  {
+    "question": "Where is the company based?",
+    "expected_text": "Pune, India"
+  },
+  {
+    "question": "Which ecommerce platforms can RetailPulse connect to?",
+    "expected_text": "Shopify, WooCommerce, and Magento"
+  },
+  {
+    "question": "How frequently is dashboard information updated?",
+    "expected_text": "every five minutes"
+  },
+  {
+    "question": "How can low stock notifications be delivered?",
+    "expected_text": "email or Slack"
+  },
+  {
+    "question": "Which formats are available when exporting reports?",
+    "expected_text": "PDF and CSV"
+  },
+  {
+    "question": "How much does the Growth subscription cost?",
+    "expected_text": "$49 per month"
+  },
+  {
+    "question": "How is stored customer information protected?",
+    "expected_text": "AES-256"
+  },
+  {
+    "question": "When is live chat support available?",
+    "expected_text": "Monday through Friday between 9 AM and 6 PM"
+  },
+  {
+    "question": "What is the API request limit for Business customers?",
+    "expected_text": "20,000 requests per hour"
+  }
+]

@@ -28,8 +28,8 @@ UPLOAD_DIR.mkdir(exist_ok=True)
 
 ALLOWED_EXTENSIONS = {".pdf", ".txt"}
 
-CHUNK_SIZE = 800
-CHUNK_OVERLAP = 120
+CHUNK_SIZE = 400
+CHUNK_OVERLAP = 60
 TOP_K = 3
 
 
