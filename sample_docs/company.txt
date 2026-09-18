@@ -1,0 +1,9 @@
+Acme Analytics builds software for retail businesses.
+
+The company was founded in 2021 and is headquartered in Bengaluru.
+
+Its main product, InsightFlow, helps retailers analyze inventory and sales data.
+
+InsightFlow supports real-time dashboards, automated reports, and inventory alerts.
+
+Customers can export reports in PDF and CSV formats.
